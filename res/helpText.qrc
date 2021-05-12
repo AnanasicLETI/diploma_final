@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/helpTest">
+        <file>help.txt</file>
+        <file>pic.jpg</file>
+    </qresource>
+</RCC>
